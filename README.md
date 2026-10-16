@@ -15,6 +15,8 @@
 activity-guides/
 ├── README.md
 ├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── LICENSE
 ├── docs/                   # 通用文档、规范、模板
 ├── skills/                 # Agent 可用的 skill
 ├── activities/             # 所有活动
@@ -69,6 +71,10 @@ activity-guides/
 ## 如何贡献
 
 见 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## 变更日志
+
+见 [CHANGELOG.md](CHANGELOG.md)
 
 ## 原则
 
